@@ -1,5 +1,6 @@
 require('node-path-choice').blatant(__dirname)
 require('extended-logger').installConsole(__dirname, __filename)
+global.__basedir = __dirname
 
 const bodyParser = require('body-parser')
 const cors = require('cors')
