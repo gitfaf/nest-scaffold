@@ -18,6 +18,11 @@ A simple project to bootstrap your hackathon development.
 - Latest packages
   - This repo is maintained at latest packages. If that is not possible then that will be the end of this repo.
 
+## Installations
+
+- Grunt runner - `npm i -g grunt-cli`
+- typescript (global, optional) - `npm i -g typescript`
+
 ## License
 
 MIT &copy; Git Faf 2017
